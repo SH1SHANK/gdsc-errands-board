@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/GDSC%20Banner.jpg" alt="Google Developer Student Clubs Banner" width="100%" />
+</p>
+
 # Errands Board
 
 A lightweight campus task exchange system built with Flutter and Dart for the Google Developer Student Clubs (GDSC) App Dev Workshop 2026.
