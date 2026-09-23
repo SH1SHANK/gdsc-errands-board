@@ -2,6 +2,29 @@
 
 A lightweight campus task exchange system built with Flutter and Dart for the Google Developer Student Clubs (GDSC) App Dev Workshop 2026.
 
+[![Latest Release](https://img.shields.io/github/v/release/SH1SHANK/gdsc-errands-board?color=02569B&label=Release)](https://github.com/SH1SHANK/gdsc-errands-board/releases/latest)
+[![Download Universal APK](https://img.shields.io/badge/Download-Universal%20APK-2ea44f?logo=android&logoColor=white)](https://github.com/SH1SHANK/gdsc-errands-board/releases/download/v1.0.0/ErrandsBoard-v1.0.0-universal.apk)
+[![Flutter](https://img.shields.io/badge/Flutter-3.47.5-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.13.4-0175C2?logo=dart&logoColor=white)](https://dart.dev)
+[![Tests](https://img.shields.io/badge/Tests-4%20passing-brightgreen)](test/widget_test.dart)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Workshop](https://img.shields.io/badge/GDSC%20Workshop-2026-EA4335?logo=google&logoColor=white)](tutorial/)
+
+---
+
+## Downloads & Releases
+
+Pre-compiled production Android binaries for the latest release (`v1.0.0`) are available for direct installation:
+
+| Architecture | Package Size | Target Devices | Direct Download |
+| :--- | :--- | :--- | :--- |
+| **Universal** | 48.8 MB | All supported Android devices (FAT binary) | [![Universal APK](https://img.shields.io/badge/Download-Universal%20APK-2ea44f?logo=android&logoColor=white)](https://github.com/SH1SHANK/gdsc-errands-board/releases/download/v1.0.0/ErrandsBoard-v1.0.0-universal.apk) |
+| **ARM64 (64-bit)** | 16.9 MB | Modern Android smartphones and tablets (`arm64-v8a`) | [![ARM64 APK](https://img.shields.io/badge/Download-arm64--v8a-2ea44f?logo=android&logoColor=white)](https://github.com/SH1SHANK/gdsc-errands-board/releases/download/v1.0.0/ErrandsBoard-v1.0.0-arm64-v8a.apk) |
+| **ARMv7 (32-bit)** | 14.3 MB | Older 32-bit Android hardware (`armeabi-v7a`) | [![ARMv7 APK](https://img.shields.io/badge/Download-armeabi--v7a-2ea44f?logo=android&logoColor=white)](https://github.com/SH1SHANK/gdsc-errands-board/releases/download/v1.0.0/ErrandsBoard-v1.0.0-armeabi-v7a.apk) |
+| **x86_64** | 18.4 MB | Android Emulators, ChromeOS, and x86 devices (`x86_64`) | [![x86_64 APK](https://img.shields.io/badge/Download-x86__64-2ea44f?logo=android&logoColor=white)](https://github.com/SH1SHANK/gdsc-errands-board/releases/download/v1.0.0/ErrandsBoard-v1.0.0-x86_64.apk) |
+
+Full release notes, source code archives, and verified checksums are published on the [GitHub Releases Page](https://github.com/SH1SHANK/gdsc-errands-board/releases/tag/v1.0.0).
+
 ---
 
 ## Executive Summary
@@ -226,4 +249,5 @@ By decoupling presentation from storage mechanisms, cloud persistence can be int
 ## License & Attribution
 
 Developed as reference curriculum for the **GDSC Flutter App Development Workshop 2026**.
-Google Developer Student Clubs (GDSC).
+Google Developer Student Clubs (GDSC). Distributed under the [MIT License](LICENSE).
+
